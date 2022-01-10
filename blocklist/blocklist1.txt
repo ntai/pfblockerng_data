@@ -15,3 +15,6 @@ us-u.openx.net
 vidazoo.com
 www.googleadservices.com
 www.googletagmanager.com
+.googletagmanager.com
+.googleadservices.com
+.pagead.l.doubleclick.net
