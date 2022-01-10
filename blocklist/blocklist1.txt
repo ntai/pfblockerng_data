@@ -18,3 +18,4 @@ www.googletagmanager.com
 .googletagmanager.com
 .googleadservices.com
 .pagead.l.doubleclick.net
+securepubads.g.doubleclick.net
